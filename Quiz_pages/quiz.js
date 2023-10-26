@@ -16,7 +16,7 @@ function startMLQuiz() {
 }
 function startDSQuiz() {
     // Redirect to the aptitude page
-    window.location.href = './Data_science/ds.html' ;
+    window.location.href = './data_science/ds.html' ;
 }
 function startCSQuiz() {
     // Redirect to the aptitude page
