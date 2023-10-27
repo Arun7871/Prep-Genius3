@@ -1,2 +1,2 @@
 # Prep-Genius3
-usefull for interview preparation
+useful for interview preparation
